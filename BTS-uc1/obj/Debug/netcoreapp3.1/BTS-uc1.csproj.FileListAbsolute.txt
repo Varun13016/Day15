@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\bin\Debug\netcoreapp3.1\BTS-uc1.exe
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\bin\Debug\netcoreapp3.1\BTS-uc1.deps.json
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\bin\Debug\netcoreapp3.1\BTS-uc1.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\bin\Debug\netcoreapp3.1\BTS-uc1.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\bin\Debug\netcoreapp3.1\BTS-uc1.dll
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\bin\Debug\netcoreapp3.1\BTS-uc1.pdb
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.dll
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.pdb
+C:\Users\VARUN KUMAR\source\repos\Day15\Practice\BTS-uc1\BTS-uc1\obj\Debug\netcoreapp3.1\BTS-uc1.genruntimeconfig.cache
